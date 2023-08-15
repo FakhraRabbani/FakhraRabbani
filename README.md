@@ -17,7 +17,7 @@ I'm Fakhra Rabbani, a student at PUCIT Lahore, passionate about web development 
 I have experience working with:
 
 - Frontend: HTML, CSS, JavaScript
-- C++ Language
+- C++ / C Language
 
 
 
@@ -25,7 +25,7 @@ I have experience working with:
 
 Let's connect and learn together! You can find me on:
 
-- [LinkedIn]()
+- [LinkedIn](https://www.linkedin.com/in/fakhra-rabbani-0855bb243)
 - [Email](fakhrarabbani25@gmail.com)
 
 Feel free to reach out if you have any questions, suggestions, or if you just want to chat!
