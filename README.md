@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi there 👋 
 
-<!--
-**FakhraRabbani/FakhraRabbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fakhra Rabbani, a student at PUCIT Lahore, passionate about web development and eager to learn and contribute to the tech world. This is my GitHub playground where I showcase my projects, experiments, and learning journey.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me
+
+- 🌱 I’m currently studying bachelor's of information technology in PUCIT 
+- 💼 I'm interested in front-end development, backend development, UI/UX design, open source
+- 📫 How to reach me: fakhrarabbani25@gmail.com
+
+
+
+## Technologies
+
+I have experience working with:
+
+- Frontend: HTML, CSS, JavaScript
+- C++ Language
+
+
+
+## Connect with Me
+
+Let's connect and learn together! You can find me on:
+
+- [LinkedIn]()
+- [Email](fakhrarabbani25@gmail.com)
+
+Feel free to reach out if you have any questions, suggestions, or if you just want to chat!
+
+Happy coding! 🚀
